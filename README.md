@@ -1,26 +1,38 @@
-# Diabetes Prediction using Classification and Boosting Algorithm
+# Zomato Data Analysis Project
 
-###
+## Project Overview
 
-Goal of this notebook is to classify various conditions of Diabetes.
+Analyzing Zomato data using Python for exploratory data analysis (EDA) to derive actionable insights and improve business strategies.
 
 ## Tech Stack
 
- **Language:** python
+**Language:** Python
 
- **Libraries:** numpy, pandas, seaborn, matplotlib, statistics, math, scipy, sklearn
+**Libraries:** pandas, numpy, matplotlib, seaborn, statistics
 
 ## Appendix
-* Exploratory Data Analysis
-* Classification Models Used: 
-* LogisticRegression, 
-* DecisionTreeClassifier, 
-* RandomForestClassifier,
-* XG Boost
 
+### Data Sources
+
+- Zomato restaurant data, including restaurant details, ratings, reviews, location, and cuisine types.
+
+### Metrics and Analysis
+
+- **Key Metrics:** Ratings, Number of Reviews, Average Cost, Location Analysis, Cuisine Popularity.
+- **Data Visualization:** Bar Charts, Scatter Plots, Histograms, Heat Maps.
+- **Advanced Analysis:** Correlation Analysis, Rating Distribution, Price Range Analysis.
+
+## Key Findings and Insights
+
+- **Top Rated Restaurants and Popular Cuisines**
+- **Customer Preferences and Trends**
+- **Actionable Recommendations:** Pricing Strategy, Location-Based Marketing, Cuisine Offerings
+
+## Conclusion
+
+This analysis provides a comprehensive view of Zomato's data, enabling data-driven decision-making and business growth through advanced analytics and visualization using Python.
 
 ## Let's Connect ©
 
-Project Completed by [Tajamul Khan](https://github.com/tajamulk2)
-For More Projects like this. Check out my [GitHub](https://github.com/tajamulk2)
-Let's connect over [Linked In](https://www.linkedin.com/in/tajamulk2/)
+Project Completed by [Prajakta Gaikwad](https://github.com/Gaikwadp629)
+Let's connect over [LinkedIn](https://www.linkedin.com/in/prajakta-gaikwad-33b678198/)
